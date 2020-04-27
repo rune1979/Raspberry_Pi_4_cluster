@@ -3,9 +3,9 @@ Ready to laser-cut Pi 4 Cluster Rack
 
 No need for energy consuming and noicy fans. The thermal flow will keep circulating the air. Se the whole setup decription can be found on Medium article...
 
-In the /dxf dir you will find the files for the lasercutter.
+In the dxf/ dir you will find the files for the lasercutter.
 
-The following pieces have to be cut once/one piece each. The material have to be 3mm in thickness (and preferable in acryl/plaxiglass or transparent material for the visuals):
+The following pieces have to be cut once/one piece each. The material have to be 3mm in thickness (and preferable in acryl/plexi-glass or transparent material for the visuals):
 - 1 x back.dxf
 - 1 x back_plexi_pi.dxf
 - 1 x bottum.dxf
@@ -24,10 +24,12 @@ This is the plate that devides the cables and backside of the cluster this can b
 2 pieces of sides to hold the beds (3 mm)
 - 2 x pi_sides.dxf
 
-2 Sides to hold it all together have to be <b>6MM material!</b>
+The 2 sides to hold it all together have to be <b>6MM material!</b>
 - 2	x side_wood.dxf
 
 ![pi_inner_back.dxf is transparent](IMG_0884.JPG#fixorientation)
+
+![pi_inner_back.dxf is transparent](IMG_0901.JPG#fixorientation)
 
 
 
