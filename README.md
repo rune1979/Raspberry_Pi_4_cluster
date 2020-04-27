@@ -29,7 +29,7 @@ The 2 sides to hold it all together have to be <b>6MM material!</b>
 
 ![pi_inner_back.dxf is transparent](IMG_08842.JPG=x300)
 
-![pi_inner_back.dxf is transparent](IMG_09012.JPG=x300)
+![pi_inner_back.dxf is transparent](IMG_09012.JPG){ height=300px }
 
 
 
