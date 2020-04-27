@@ -13,21 +13,21 @@ The following pieces have to be cut once/one piece each. The material have to be
 - 1 x top.dxf
 
 This is the small front plate, for shielding the view to the switch (It would preferably be in a non-transparent material)
-1 x bottum_front.dxf
+- 1 x bottum_front.dxf
 
 This is the plate that devides the cables and backside of the cluster this can be transparent material, but will make all the wiring visible, so in one of the pictures I use wood instead (a compromise with my wife). Still 3mm material.
-1 x pi_inner_back.dxf
+- 1 x pi_inner_back.dxf
 
 8 pieces of pi beds, still 3 mm material.
-8 x pi_bed.dxf
+- 8 x pi_bed.dxf
 
 2 pieces of sides to hold the beds (3 mm)
-2 x pi_sides.dxf
+- 2 x pi_sides.dxf
 
-2 Sides to hold it all together have to be<b>6MM material!</b>
-2	x side_wood.dxf
+2 Sides to hold it all together have to be <b>6MM material!</b>
+- 2	x side_wood.dxf
 
-![pi_inner_back.dxf is transparent](IMG_0884.JPG)
+![pi_inner_back.dxf is transparent](IMG_0884.JPG?fixOrientation)
 
 
 
