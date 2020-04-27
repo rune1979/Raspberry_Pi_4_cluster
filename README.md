@@ -1,5 +1,5 @@
 # Raspberry Pi 4 cluster
-Ready to laser-cut Pi 4 Cluster Rack
+Ready to laser-cut Pi 4 Cluster
 
 No need for energy consuming and noicy fans. The thermal flow will keep circulating the air. Se the whole setup decription can be found on <a href="https://medium.com/@runehattmann/how-to-build-a-raspberry-pi-4-cluster-e4cf99968e7c">Medium article...</a>
 
