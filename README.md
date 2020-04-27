@@ -6,11 +6,11 @@ No need for energy consuming and noicy fans. The thermal flow will keep circulat
 In the /dxf dir you will find the files for the lasercutter.
 
 The following pieces have to be cut once/one piece each. The material have to be 3mm in thickness (and preferable in acryl/plaxiglass or transparent material for the visuals):
-1 x back.dxf
-1 x back_plexi_pi.dxf
-1 x bottum.dxf
-1 x front_top.dxf
-1 x top.dxf
+- 1 x back.dxf
+- 1 x back_plexi_pi.dxf
+- 1 x bottum.dxf
+- 1 x front_top.dxf
+- 1 x top.dxf
 
 This is the small front plate, for shielding the view to the switch (It would preferably be in a non-transparent material)
 1 x bottum_front.dxf
@@ -26,6 +26,8 @@ This is the plate that devides the cables and backside of the cluster this can b
 
 2 Sides to hold it all together have to be<b>6MM material!</b>
 2	x side_wood.dxf
+
+![pi_inner_back.dxf is transparent](IMG_0884.JPG)
 
 
 
