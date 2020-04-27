@@ -27,7 +27,7 @@ This is the plate that devides the cables and backside of the cluster this can b
 2 Sides to hold it all together have to be <b>6MM material!</b>
 - 2	x side_wood.dxf
 
-![pi_inner_back.dxf is transparent](IMG_0884.JPG?fixOrientation)
+![pi_inner_back.dxf is transparent](IMG_0884.JPG#fixorientation)
 
 
 
